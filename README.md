@@ -32,6 +32,14 @@ Every cell was read from the project's own repository or site on **September 27,
 3. Permissive, forkable stack: OpenClaw, Open Interpreter, or NVIDIA NemoClaw.
 4. Local-first workspace whose enterprise tier is source-available: OpenWork.
 
+## Docs on this repo
+
+- [What Perplexity Computer is, and where the open-source alternative differs](docs/what-perplexity-computer-is.md)
+- [What Perplexity Computer costs, and what the open-source path costs](docs/perplexity-computer-cost.md)
+- [Who owns what: Perplexity Computer or open-source Kortix for a team](docs/kortix-vs-perplexity-computer-for-teams.md)
+
+The first doc defines the hosted product in Perplexity's own words; the site's [what is a Perplexity Computer](https://opensourceperplexitycomputer.com/what-is-a-perplexity-computer) explainer goes deeper, and the [Perplexity Computer pricing rundown](https://opensourceperplexitycomputer.com/perplexity-computer-pricing) sets the hosted credit meter beside self-hosting.
+
 ## Contributing
 
 Corrections are welcome. Open an issue with the primary source (the project's own repo or site) for the cell you believe is wrong. This list is documentation-based, not a benchmark.
